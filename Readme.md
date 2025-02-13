@@ -3,6 +3,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7C900&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Computer+Engineering+Student;Tech+Enthusiast" alt="Typing SVG" />
 </p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7C900&center=true&vCenter=true&width=500&lines=Junior+Software+Developer;Cyber+Security" alt="Typing SVG" />
+</p>
 
 <a><img src="https://github.com/BedirM/BedirM/blob/main/Bedir_M%C3%BCjde_.PNG" align=right width="250" alt="Bedir Müjde's Dev Card"/></a>
 
