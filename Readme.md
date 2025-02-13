@@ -1,5 +1,5 @@
 <h1 align="center"> &nbsp;Hi! , I am Bedir</h1>
-<a href=""></a>
+<a><img src="[https://github.com/tburakozdemir/tburakozdemir/blob/master/devcard.svg](https://github.com/BedirM/BedirM/blob/main/Bedir_M%C3%BCjde_.PNG)" align=right width="250" alt="Taha Burak Özdemir's Dev Card"/></a>
 
 <p style="max-width: 300px; word-wrap: break-word;">
  I am a 4th year student of Inönü University computer engineering. Previously, I studied computer engineering at Sakarya University.
