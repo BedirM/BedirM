@@ -1,5 +1,5 @@
-<h1 align="center"> &nbsp;Hi :wave:, I am Taha</h1>
-<a href="https://app.daily.dev/tburakozdemir"><img src="https://github.com/tburakozdemir/tburakozdemir/blob/master/devcard.svg" align=right width="250" alt="Taha Burak Özdemir's Dev Card"/></a>
+<h1 align="center"> &nbsp;Hi! , I am Bedir</h1>
+<a href=""></a>
 
 <p style="max-width: 300px; word-wrap: break-word;">
  I am a 4th year student of Inönü University computer engineering. Previously, I studied computer engineering at Sakarya University.
@@ -9,8 +9,8 @@ I am a determined and willing teammate who loves to work :)
 </p>
 
 
-[![Linkedin: TahaBurakOzdemir](https://img.shields.io/badge/-Taha%20Burak%20Özdemir-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/taha-burak-ozdemir/)](https://www.linkedin.com/in/taha-burak-ozdemir/)
-[![Gmail Badge](https://img.shields.io/badge/-Taha%20Burak%20Özdemir-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:tahaburakzdemir1@gmail.com)](mailto:tahaburakzdemir1@gmail.com)
+[![Linkedin: BedirM](https://img.shields.io/badge/-Bedir%20Müjde-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bedir-m%C3%BCjde-3a27b6221/)](https://www.linkedin.com/in/bedir-m%C3%BCjde-3a27b6221/)
+[![Gmail Badge](https://img.shields.io/badge/-Bedir%20Müjde-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:bedirmujde@hotmail.com)](mailto:bedirmujde@hotmail.com)
 
 
 
@@ -27,3 +27,7 @@ I am a determined and willing teammate who loves to work :)
     <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker icon" width="77" height="77" />    
     <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="77" height="77" />
 </div>
+
+
+## 📊 GitHub Stats:
+![Bedir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BedirM&show_icons=true&theme=radical)
