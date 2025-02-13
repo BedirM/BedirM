@@ -48,8 +48,9 @@ I am a **determined, self-motivated, and eager-to-learn** individual who loves t
 ---
 
 ## 📌 Featured Projects:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BedirM&repo=Project1&theme=radical)](https://github.com/BedirM/Project1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BedirM&repo=Project2&theme=radical)](https://github.com/BedirM/Project2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BedirM&repo=Project1&theme=radical)](https://github.com/BedirM/Web_Scraping_Beatifulsoup_TelegramBot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BedirM&repo=Project2&theme=radical)](https://github.com/BedirM/social_medya_app)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BedirM&repo=Project2&theme=radical)](https://github.com/BedirM/Gym_Member_Managment_System)
 
 ---
 
