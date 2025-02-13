@@ -5,7 +5,7 @@
  I am a 4th year student of Inönü University computer engineering. Previously, I studied computer engineering at Sakarya University.
 I have already served as a management team member in many student communities.
 I have full-time full stack developer and computer programmer work experience.
-I am a determined and willing teammate who loves to work :)
+I am a determined and willing teammate who loves to work 🙂
 </p>
 
 
@@ -14,7 +14,7 @@ I am a determined and willing teammate who loves to work :)
 
 
 
-### 🛠 &nbsp;Tech Stack
+## 🛠 &nbsp;Tech Stack
 <div align="center" style="display: flex; justify-content: center; gap: 10px; align-items: center; width:100%">
     <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python icon" width="77" height="77" />
     <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript icon" width="77" height="77" />
