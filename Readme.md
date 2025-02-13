@@ -2,7 +2,10 @@
 <a href="https://app.daily.dev/tburakozdemir"><img src="https://github.com/tburakozdemir/tburakozdemir/blob/master/devcard.svg" align=right width="250" alt="Taha Burak Özdemir's Dev Card"/></a>
 
 <p style="max-width: 300px; word-wrap: break-word;">
-  I am currently pursuing a master's degree in the field of image processing. Throughout my journey in computer science, I continuously seek to expand my knowledge and understanding of diverse topics. If you wish to reach out to me, feel free to do so.
+ I am a 4th year student of Inönü University computer engineering. Previously, I studied computer engineering at Sakarya University.
+I have already served as a management team member in many student communities.
+I have full-time full stack developer and computer programmer work experience.
+I am a determined and willing teammate who loves to work :)
 </p>
 
 
