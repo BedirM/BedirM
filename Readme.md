@@ -36,7 +36,7 @@ I am a **determined, self-motivated, and eager-to-learn** individual who loves t
     <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="Sass icon" width="77" height="77" />
     <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub icon" width="77" height="77" />
     <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker icon" width="77" height="77" />    
-    
+    <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="77" height="77" />
 </div>
 
 ---
