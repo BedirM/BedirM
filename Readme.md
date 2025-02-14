@@ -44,7 +44,7 @@ I am a **determined, self-motivated, and eager-to-learn** individual who loves t
 ## 📊 GitHub Stats:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BedirM&show_icons=true&theme=radical" height="180em" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BedirM&theme=radical" height="200px" width="400px" />
+  <img src="https://streak-stats.demolab.com?user=BedirM&theme=radical&hide_border=true" height="180em" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BedirM&layout=compact&langs_count=8&theme=radical" height="180em" />
 </div>
 
