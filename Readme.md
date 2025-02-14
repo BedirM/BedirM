@@ -36,7 +36,7 @@ I am a **determined, self-motivated, and eager-to-learn** individual who loves t
     <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="Sass icon" width="77" height="77" />
     <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub icon" width="77" height="77" />
     <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker icon" width="77" height="77" />    
-    <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="77" height="77" />
+    
 </div>
 
 ---
@@ -44,7 +44,7 @@ I am a **determined, self-motivated, and eager-to-learn** individual who loves t
 ## 📊 GitHub Stats:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BedirM&show_icons=true&theme=radical" height="180em" />
-  ![GitHub Streak](https://streak-stats.demolab.com?user=BedirM&theme=radical&hide_border=true)
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BedirM&theme=radical" height="180em" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BedirM&layout=compact&langs_count=8&theme=radical" height="180em" />
 </div>
 
