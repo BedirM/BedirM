@@ -24,7 +24,7 @@ I am a **determined, self-motivated, and eager-to-learn** individual who loves t
 
 [![Gmail Badge](https://img.shields.io/badge/-Bedir%20Müjde-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:bedirmujde@hotmail.com)](mailto:bedirmujde@hotmail.com)
 
-[![Website](https://img.shields.io/badge/-Personal%20Website-222?style=flat-square&logo=Google-Chrome&logoColor=white&link=https://personal-website-kohl-psi.vercel.app/)](https://personal-website-kohl-psi.vercel.app/)
+[![Website](https://img.shields.io/badge/-Personal%20Website-222?style=flat-square&logo=Google-Chrome&logoColor=white&link=https://personal-website-kohl-psi.vercel.app/)](https://bedirmujde-personal-website.vercel.app/)
 
 ---
 
